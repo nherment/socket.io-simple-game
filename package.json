@@ -1,0 +1,16 @@
+{
+  "name": "socket.io-simple-game",
+  "version": "0.0.0",
+  "description": "a simple html game with node.js and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Herment <nherment@arkhaios.net>",
+  "license": "MIT License",
+  "dependencies": {
+    "express": "~3.4.2",
+    "socket.io": "~0.9.16",
+    "uuid": "~1.4.1"
+  }
+}
